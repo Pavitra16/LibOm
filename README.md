@@ -1,4 +1,4 @@
-# LibOm
+# Library Management System
 This repository hosts a comprehensive Library Management System implemented in Python using the tkinter library for the graphical user interface (GUI) and MySQL for database management. The system provides functionalities to manage a library's operations efficiently, including adding and editing books and managing borrower 
 
 ## Key Features:
